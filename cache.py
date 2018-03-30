@@ -1,6 +1,6 @@
 ########################################################################
 #
-# Cache-wrapper for a function or class.
+# Cache-wrapper for a function or class
 #
 # Save the result of calling a function or creating an object-instance
 # to harddisk. This is used to persist the data so it can be reloaded

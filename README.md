@@ -11,7 +11,7 @@ server_main.py
 server_image_download.py
 
     The program used to pull data from google-images, limited to the first 100 currently. Multiple keywords can be
-    specified for more images.
+    specified for more images. Must manually specify train/, test/ directories for downloading.
     
       Images should be in the format
       

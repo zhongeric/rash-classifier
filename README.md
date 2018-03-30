@@ -24,7 +24,7 @@ server_image_download.py
           class2
           ...
     
-pleasework.py
+server_export.py
 
     The program used to convert the .keras model to a .mlmodel for integration into swift
     

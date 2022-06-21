@@ -50,7 +50,7 @@ middleware==1.2.3
 multidict==4.3.1
 names==0.3.0
 networkx==2.1
-numpy==1.14.5
+numpy==1.22.0
 oauthlib==2.1.0
 pandas==0.23.0
 parmap==1.5.1
